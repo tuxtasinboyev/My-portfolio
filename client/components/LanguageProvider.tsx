@@ -17,9 +17,9 @@ const translations: Record<string, Record<Lang, string>> = {
     en: "Omadbek Tuxtasinboyev",
   },
   subtitle: {
-    uz: "Full Stack Developer — React, Node.js, NestJS, TypeScript",
-    ru: "Full Stack разработчик — React, Node.js, NestJS, TypeScript",
-    en: "Full Stack Developer — React, Node.js, NestJS, TypeScript",
+    uz: "Full Stack Developer — React, Node.js, NestJS, TypeScript,Telegram bot,Web bot",
+    ru: "Full Stack разработчик — React, Node.js, NestJS, TypeScript,Telegram bot,Web bot",
+    en: "Full Stack Developer — React, Node.js, NestJS, TypeScript,Telegram bot,Web bot",
   },
   contact: { uz: "Bog‘lanish", ru: "Связаться", en: "Contact" },
   projects: { uz: "Loyihalar", ru: "Проекты", en: "Projects" },
